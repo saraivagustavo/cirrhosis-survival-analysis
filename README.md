@@ -104,9 +104,9 @@ O projeto segue um fluxo de engenharia de dados e modelagem rigoroso:
 
 ## Autores
 
-* **Gustavo Saraiva Mariano** - *Discente (Ifes)* - [saraivaifes@gmail.com]
-* **Pedro Renã da Silva Moreira** - *Discente (Ifes)* - [pedrorenanmoreira@gmail.com]
-* **Profª. Kelly Assis de Souza Gazolli** - *Orientadora/Docente (Ifes)* - [kasouza@ifes.edu.br]
+* **Gustavo Saraiva Mariano** - *Discente (Ifes)* - saraivaifes@gmail.com
+* **Pedro Renã da Silva Moreira** - *Discente (Ifes)* - pedrorenanmoreira@gmail.com
+* **Profª. Kelly Assis de Souza Gazolli** - *Orientadora/Docente (Ifes)* - kasouza@ifes.edu.br
 
 ---
 
